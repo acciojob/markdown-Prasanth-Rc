@@ -18,7 +18,7 @@ function App() {
           style={{
             width: '50%',
             height: '300px',
-            padding: '10px',
+            padding: '10px', 
             fontSize: '1rem',
             fontFamily: 'monospace',
           }}
